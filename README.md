@@ -35,13 +35,13 @@ This project was created to practice:
 
 ## 📂 Project Structure
 
-Login-Register-UI/
-├── index.html
-├── login.html
-├── register.html
-├── style.css
-└── script.js
-
+📁 Login-Register-UI
+│
+├── 📄 index.html
+├── 📄 login.html
+├── 📄 register.html
+├── 🎨 style.css
+└── ⚙️ script.js
 
 ---
 
