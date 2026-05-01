@@ -35,11 +35,11 @@ This project was created to practice:
 
 ## 📂 Project Structure
 
-  ─ 📄 main.html
-  ─ 📂 css
-    ─ 🎨 style.css
-  ─ 📂 js
-    ─ ⚙️ script.js
+  -📄 main.html
+  - 📂 css
+    - 🎨 style.css
+  - 📂 js
+  - ⚙️ script.js
 
 ---
 
